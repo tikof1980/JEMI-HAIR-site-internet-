@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tikof1980.github.io/jemie-hair/sitemap.xml
